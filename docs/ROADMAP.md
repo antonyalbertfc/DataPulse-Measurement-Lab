@@ -4,7 +4,7 @@ As tarefas abaixo são propostas, não recursos concluídos.
 The tasks below are proposals, not completed features.
 
 ## Próxima entrega / Next release
-- [ ] Publicar no GitHub Pages e registrar URL / Publish and record the live URL.
+- [x] Publicar no GitHub Pages e registrar URL / Publish and record the live URL: https://antonyalbertfc.github.io/DataPulse-Measurement-Lab/
 - [ ] Exportar configurações sanitizadas GTM Web e Server / Export sanitized configurations.
 - [ ] Registrar capturas de validação sem dados pessoais / Add sanitized validation screenshots.
 - [ ] Revalidar eventos e consentimento no domínio público / Revalidate on the public domain.

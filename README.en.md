@@ -14,7 +14,7 @@ The project follows an interaction from interface to event, transport, measureme
 - GTM Web loads only after Analytics consent.
 - Events routed through a Stape-hosted Server container to GA4.
 - Measurement and consent flows validated during development.
-- Automated publishing is configured in .github/workflows/pages.yml; GitHub Pages activation and the first deployment are pending.
+- Published on GitHub Pages: [open the live demo](https://antonyalbertfc.github.io/DataPulse-Measurement-Lab/).
 - Remote GTM/GA4 configurations are not exported as versioned JSON in this repository.
 
 > The form does not register real leads. Success is simulated in the browser. Stape hosts the measurement server, not a lead-registration backend.

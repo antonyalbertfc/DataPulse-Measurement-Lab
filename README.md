@@ -14,7 +14,7 @@ O objetivo é apresentar o caminho completo de uma interação: interface → ev
 - GTM Web carregado somente após autorização de Analytics.
 - Eventos encaminhados pelo contêiner Server na Stape para o GA4.
 - Fluxos de mensuração e consentimento validados durante o desenvolvimento.
-- Publicação automatizada preparada em .github/workflows/pages.yml; ativação e primeira implantação no GitHub Pages pendentes.
+- Publicado no GitHub Pages: [abrir demonstração](https://antonyalbertfc.github.io/DataPulse-Measurement-Lab/).
 - Configurações remotas de GTM/GA4 não estão versionadas em JSON neste repositório.
 
 > O formulário não cadastra leads reais. A confirmação é simulada no navegador. O servidor Stape é de mensuração, não um backend de cadastro.
